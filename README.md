@@ -1,6 +1,7 @@
 ### Hi there 👋 欢迎访问我的GitHub 👋
   * :trollface: 资深北漂党一枚
-  * :trollface: 90后渣渣一枚
+  * :trollface: 喜欢go php java
+  * :trollface: 如有问题欢迎随时打扰:eyes:0807captain@gmail.com
 <!--
 **wangliangl/wangliangl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
